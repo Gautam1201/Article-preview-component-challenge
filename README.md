@@ -26,15 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
- - Desktop View 
- ![Screenshot - Desktop Active State](./images/Screenshot.jpg)
- - 
- ![Screenshot - Mobile View](./images/Screenshot-mobile.jpg)
+   <p align="center">DESKTOP VIEW</p>
+  ![Screenshot - Desktop Active State](./images/Screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/mobilefirst-article-preview-component-using-css-grid-flexbox-and-js-878gRyiW-)
+- Live Site URL: [Live Site URL](https://article-card-component.netlify.app/)
 
 ## My process
 
