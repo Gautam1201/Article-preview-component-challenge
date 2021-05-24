@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-  - DESKTOP VIEW
+   DESKTOP VIEW
   ![Screenshot - Desktop Active State](./images/Screenshot.jpg)
 
 ### Links
