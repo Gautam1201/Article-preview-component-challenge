@@ -25,8 +25,6 @@ Users should be able to:
 - See the social media share links when they click the share icon
 
 ### Screenshot
-
-   <p align="center">DESKTOP VIEW</p>
   ![Screenshot - Desktop Active State](./images/Screenshot.jpg)
 
 ### Links
