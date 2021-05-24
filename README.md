@@ -26,10 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
- - Desktop View 
- ![Screenshot - Desktop Active State](./images/Screenshot.jpg)
- - 
- ![Screenshot - Mobile View](./images/Screenshot-mobile.jpg)
+ - <p align = "center">DESKTOP VIEW</p>
+  ![Screenshot - Desktop Active State](./images/Screenshot.jpg)
+ - <p align = "center">MOBILE VIEW</p>
+  <img src="./images/Screenshot-mobile.jpg" alt="Screenshot - Mobile View" width="250px"/>
 
 ### Links
 
