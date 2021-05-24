@@ -164,7 +164,7 @@ p{
 
   .container{
     grid-template-columns: auto auto;
-    max-width: 700px;
+    max-width: 740px;
     max-height: 280px;
     
   }
@@ -175,10 +175,12 @@ p{
 
   .image-container{
     max-height: 280px;
+    overflow: hidden;
   }
 
   .drawersImg{
     border-radius: 1rem 0 0 1rem;
+    width: auto;
   }
 
   .title{
