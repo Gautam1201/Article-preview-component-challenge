@@ -26,12 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-  <p align = "center">DESKTOP VIEW</p>
-  <br>
+  - DESKTOP VIEW
   ![Screenshot - Desktop Active State](./images/Screenshot.jpg)
-  <p align = "center">MOBILE VIEW</p>
-  <br>
-  <img src="./images/Screenshot-mobile.jpg" alt="Screenshot - Mobile View" width="250px" align = "center" />
 
 ### Links
 
