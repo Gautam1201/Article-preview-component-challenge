@@ -165,16 +165,24 @@ p{
   .container{
     grid-template-columns: auto auto;
     max-width: 700px;
-    max-height: 240px;
+    max-height: 280px;
     
   }
 
-  .image-container .article-container{
+  .image-container, .article-container{
     height: 100%;
+  }
+
+  .image-container{
+    max-height: 280px;
   }
 
   .drawersImg{
     border-radius: 1rem 0 0 1rem;
+  }
+
+  .title{
+    font-size: 22px;
   }
 
   .contact-onclick{
